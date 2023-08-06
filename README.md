@@ -18,6 +18,7 @@ previewing
 * `ffmpegthumbnailer`
 * `ffplay`
 * `vlc`
+* exiftool thumbnailing
 * python simplecgiserver
 
 downloading
