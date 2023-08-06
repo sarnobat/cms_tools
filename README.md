@@ -2,20 +2,23 @@
 Command line content management using Unix tools philosophy, assets distributed over networked hosts. 
 
 search
-* plocate
+* `plocate`
 
 space management
-* du
+* `du`
+* `find`
+* `isdir`
+* `isfile`
 
 moving
 * coagulate_tk
-* exiftool
+* `exiftool`
 
 previewing
-* ffmpegthumbnailer
-* ffplay
-* vlc
+* `ffmpegthumbnailer`
+* `ffplay`
+* `vlc`
 
 downloading
-* rsync
-* yt-dlp
+* `rsync`
+* `yt-dlp`
