@@ -1,5 +1,5 @@
 # cms_tools
-Command line content management
+Command line content management using Unix tools philosophy, distributed
 
 search
 
