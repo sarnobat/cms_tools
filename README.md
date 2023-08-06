@@ -1,5 +1,5 @@
 # cms_tools
-Command line content management using Unix tools philosophy, distributed
+Command line content management using Unix tools philosophy, assets distributed over networked hosts. 
 
 search
 
