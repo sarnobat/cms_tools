@@ -18,6 +18,7 @@ previewing
 * `ffmpegthumbnailer`
 * `ffplay`
 * `vlc`
+* python simplecgiserver
 
 downloading
 * `rsync`
